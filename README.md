@@ -1,11 +1,5 @@
 # Joo ChangHoon
 
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeno8522&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://velog.io/@jeno8522&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a>
-</p>
-
-
 ![jeno8522's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeno8522&show_icons=true&theme=dark)
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno8522)](https://solved.ac/jeno8522/)
