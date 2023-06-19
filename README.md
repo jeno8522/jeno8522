@@ -1,7 +1,7 @@
 # JooChangHoon
-
+<!--
 ![jeno8522's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeno8522&show_icons=true&theme=dark)
-<br><br>
+<br><br>-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno8522)](https://solved.ac/jeno8522/)
 # 💪Skills
 ### Platforms & Languages
