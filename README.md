@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeno8522)](https://github.com/jeno8522/jeno8522)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeno8522&layout=compact)
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
