@@ -8,6 +8,8 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JPA](https://img.shields.io/badge/:JPA)
+![Mybatis](https://img.shields.io/badge/:Mybatis)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeno8522&layout=compact)
