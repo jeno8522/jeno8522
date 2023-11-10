@@ -33,7 +33,7 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jeno8522)]([https://jeno8522.tistory.com](https://joojeno.notion.site/Tech-Blog-096bd9a4e6cf4cf6a6a2f34eaa1597c1?pvs=4))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jeno8522)](https://joojeno.notion.site/Tech-Blog-096bd9a4e6cf4cf6a6a2f34eaa1597c1?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limjs4476@gmail.com)](mailto:jeno8522@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jeno2005@naver.com)](mailto:jeno2005@naver.com)
 
