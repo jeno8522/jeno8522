@@ -1,4 +1,5 @@
 # JooChangHoon
+# 👍 노션 포트폴리오 링크 : <a href="https://www.notion.so/joojeno/8c8b44c60b43499ebd5fd7c222fa926f" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <!--
 ![jeno8522's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeno8522&show_icons=true&theme=dark)
 <br><br>-->
